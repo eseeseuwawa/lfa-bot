@@ -1,0 +1,14 @@
+{
+    "EMAIL" : null,
+    "OWNER" : "250019187743916032",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "?"
+    ],
+    "TOKEN" : "Mzg0NzcxMjczOTQ4OTIxODU4.De4nlg.2JRF16bXSLk0PJjV7bQLPesJNNA",
+    "default" : {
+        "ADMIN_ROLE" : "Owners Co Owners Commissioner Vice Commissioner ",
+        "MOD_ROLE" : "Referee Chat Moderator",
+        "PREFIXES" : []
+    }
+}
